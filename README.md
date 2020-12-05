@@ -37,29 +37,3 @@
    * 一个配置项切换静态资源（oss/本地）
 * 上传文件记录管理
 * 后台路径自定义，防止别人找到对应的后台地址
-
-## 特别感谢
-
-以下项目排名不分先后
-
-* ThinkPHP：[https://github.com/top-think/framework](https://github.com/top-think/framework)
-
-* Layuimini：[https://github.com/zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini)
-
-* Annotations：[https://github.com/doctrine/annotations](https://github.com/doctrine/annotations)
-
-* Layui：[https://github.com/sentsin/layui](https://github.com/sentsin/layui)
-
-* Jquery：[https://github.com/jquery/jquery](https://github.com/jquery/jquery)
-
-* RequireJs：[https://github.com/requirejs/requirejs](https://github.com/requirejs/requirejs)
-
-* CKEditor：[https://github.com/ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4)
-
-* Echarts：[https://github.com/apache/incubator-echarts](https://github.com/apache/incubator-echarts)
-  
- ## 捐赠支持
- 
-开源项目不易，若此项目能得到你的青睐，可以捐赠支持作者持续开发与维护，感谢所有支持开源的朋友。
-
- ![Image text](https://chung-common.oss-cn-beijing.aliyuncs.com/donate_qrcode.png)
